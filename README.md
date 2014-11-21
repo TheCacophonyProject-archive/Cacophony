@@ -1,2 +1,3 @@
 Cacophony
 =========
+Checkout the wiki!
